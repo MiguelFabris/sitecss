@@ -1,0 +1,144 @@
+h1, h5{
+    text-align: center;
+}
+h6{
+    text-align: left;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    background-image: url("https://img.freepik.com/vetores-gratis/copie-o-fundo-branco-ondulado-do-espaco_23-2148845471.jpg");
+}
+#cabecalho{
+    height: 150px;
+    background-color: rgb(209, 0, 0);
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+#menu{
+    height: 350px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 37px;
+    margin-top: 100px;
+}
+#conteudo{
+    height: 500px;
+    width: 800px;
+    background-color: lightgray;
+    float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+    
+    text-align: center;
+    padding: 13px;
+}
+#lado{
+    height: 500px;
+    width: 350px;
+    background-color: lightseagreen;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+#rodape{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(213, 210, 210);
+    clear: both;
+    text-align: center;
+}
+#logo{
+    height: 200;
+    width: 200px;
+    margin: 0;
+    padding: 0;
+    
+    background-color: rgb(11, 216, 25);
+
+}
+#imgtop{
+    height: 150px;
+    width: 300px ;
+    float: left;
+   text-align: center;
+}
+#liberta92{
+    height: 500px;
+    width: 700px;
+    float: left;
+}
+#fotoLiberta92{
+    height: 500px;
+    width: 700px;
+    float: right;
+    text-align: center;
+}
+#rodape2{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(213, 210, 210);
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+}
+#fotoLiberta93{
+    height: 500px;
+    width: 700px;
+    float: left;
+    text-align: center;
+}
+#liberta93{
+    height: 500px;
+    width: 700px;
+    float: right;
+    text-align: center;
+}
+#rodape3{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(213, 210, 210);
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+}
+#liberta05{
+    height: 500px;
+    width: 700px;
+    float: left;
+    text-align: center;
+}
+#fotoLiberta05{
+    height: 500px;
+    width: 700px;
+    float: right;
+    text-align: center;
+}
+#rodape4{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(213, 210, 210);
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+}
+#fotoMundial92{
+    height: 500px;
+    width: 700px;
+    float: left;
+    text-align: center;
+}
+#mundial92{
+    height: 500px;
+    width: 700px;
+    float: right;
+    text-align: center;
+}
+
