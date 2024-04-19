@@ -141,4 +141,63 @@ body{
     float: right;
     text-align: center;
 }
-
+#rodape5{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(213, 210, 210);
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+}
+#fotoMundial93{
+    height: 500px;
+    width: 700px;
+    float: right;
+    text-align: center;
+}
+#mundial93{
+    height: 500px;
+    width: 700px;
+    float: left;
+    text-align: center;
+}
+#rodape6{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(213, 210, 210);
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+}
+#fotoMundial05{
+    height: 500px;
+    width: 700px;
+    float: right;
+    text-align: center;
+}
+#mundial05{
+    height: 500px;
+    width: 700px;
+    float: left;
+    text-align: center;
+}
+#rodape7{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(213, 210, 210);
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+}
+#cdb{
+    height: 500px;
+    width: 700px;
+    float: right;
+    text-align: center;
+}
+#fotocdb{
+    height: 500px;
+    width: 700px;
+    float: left;
+    text-align: center;
+}
